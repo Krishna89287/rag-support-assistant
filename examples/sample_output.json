@@ -1,0 +1,17 @@
+{
+  "request": {
+    "question": "How do I reset my password?"
+  },
+  "response": {
+    "answer": "MOCK ANSWER grounded in the retrieved context.",
+    "citations": [
+      "KB-1"
+    ],
+    "evaluation": {
+      "faithfulness": 0.0,
+      "relevancy": 0.0,
+      "hallucination_rate": 1.0
+    },
+    "blocked": false
+  }
+}
